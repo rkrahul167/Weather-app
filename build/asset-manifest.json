@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wheather-app/static/css/main.d2050008.css",
+    "main.js": "/wheather-app/static/js/main.f53f23c4.js",
+    "static/js/787.04af8d4a.chunk.js": "/wheather-app/static/js/787.04af8d4a.chunk.js",
+    "index.html": "/wheather-app/index.html",
+    "main.d2050008.css.map": "/wheather-app/static/css/main.d2050008.css.map",
+    "main.f53f23c4.js.map": "/wheather-app/static/js/main.f53f23c4.js.map",
+    "787.04af8d4a.chunk.js.map": "/wheather-app/static/js/787.04af8d4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2050008.css",
+    "static/js/main.f53f23c4.js"
+  ]
+}
